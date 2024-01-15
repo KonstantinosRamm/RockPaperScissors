@@ -2,7 +2,7 @@
 
 ## this is a simple project made in c and is nothing more than a simple rock-paper-scissors game
 
-## in order to run you have to compile it first .In order to compile it you must have installed a compiler like gcc or g++
+## in order to run you have to compile it first .In order to compile it you must have installed a compiler like the gnu compiler
 
 
 # INSTRUCTIONS
