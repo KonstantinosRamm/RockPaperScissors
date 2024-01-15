@@ -13,7 +13,7 @@
 ```bash
 git clone https://github.com/KonstantinosRamm/RockPaperScissors.git
 ```
-this will clone the repository and make a new folder with the project inside.
+this will clone the repository and make a new folder with the project inside the folder you currently are via the terminal.you can change the folder with you're at with cd /folder/you/want
 
 ## 2)navigate to the rock paper scissors folder.
 
@@ -24,7 +24,7 @@ gcc -o the_name_you_desire main.c
 ```
 
 
-## 3)run it with ./
+## 4)run it with ./
 ```bash
 ./the_name_you_gave
 ```
