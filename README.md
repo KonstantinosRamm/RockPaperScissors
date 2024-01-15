@@ -13,12 +13,12 @@
 cd /path/to/your/folder
 ```
 
-## 2)
+## 2)compile it with gcc command
 ```bash
 gcc -o the_name_you_desire main.c
 ```
 
-## 3)
+## 3)run it with ./
 ```bash
 ./the_name_you_gave
 ```
